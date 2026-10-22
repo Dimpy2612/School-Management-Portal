@@ -1,0 +1,27 @@
+.metadata/
+Servers/
+build/
+.settings/
+.classpath
+.project
+.DS_Store
+*.class
+target/
+.idea/
+.vscode/
+.env
+# Mac files
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.properties
+
+# Compiled Java files
+*.class
+
+# Build output
+build/
+target/
